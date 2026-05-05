@@ -1,0 +1,12 @@
+# robots.txt for Vegan Recipe Collection
+# https://vegan-recipe.starspace.xin
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://vegan-recipe.starspace.xin/sitemap.xml
+
+# Crawl-delay (optional, be respectful to server)
+Crawl-delay: 1
